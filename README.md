@@ -1,8 +1,9 @@
 # portafolio
 
-
 <a href="https://github.com/Mariannapodbrscek/7daysofcode_day_2">Visualiza mi repositorio</a>
 
+________________________________________
+#7daysofcode #dia2
 
 ¿Sabes cuando te registras en un site y, justo después, al iniciar sesión, te llama por tu nombre? Eso es lo que harás en el desafío de hoy.
 
